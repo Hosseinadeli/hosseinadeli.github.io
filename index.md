@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: ahnchive
-description:Hossein Adeli, phd student at stony brook university. 
+title: hosseinadeli
+description:Hossein Adeli, Senior Postdoctoral Fellow at Stony Brook University. 
 keywords: vision, attention, eye-movements, computational modeling
 ---
 

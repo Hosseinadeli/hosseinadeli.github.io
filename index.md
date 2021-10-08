@@ -19,23 +19,7 @@ I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook U
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf) / 
 [google scholar](https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ) / 
 [github](https://github.com/Hosseinadeli) <br/>
----
-
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            email: hossein.adelijelodar@stonybrook.edu<br/>
-        </div>
-
-<!--         <div class="span2">
-        <a href="../assets/portrait.jpg">
-            <img src="../assets/portrait.jpg"
-                  title="Hossein Adeli" alt="Hossein Adeli"/></a>
-        </div> -->
-    </div>
-</div>
+email: hossein.adelijelodar@stonybrook.edu<br/>
 
 &nbsp;
 

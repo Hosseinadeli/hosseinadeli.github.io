@@ -38,7 +38,7 @@ I received my PhD in Cognitive Science from Stony Brook University. My work was 
 
 <!--         <div class="span2">
         <a href="../assets/portrait.jpg">
-            <img src="../assets/portrait.jpg"
+            <img src="../assets/portrait.jpg" width = 300
                   title="Hossein Adeli" alt="Hossein Adeli"/></a>
         </div> -->
     </div>

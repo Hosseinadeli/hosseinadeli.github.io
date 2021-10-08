@@ -16,10 +16,9 @@ Stony Brook University, Stony Brook, NY
 
 I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook University.  My research focuses on using computational and behavioral tools and through collaboration neural recording  to study the relationship between recognition, attention and grouping. 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf)<br/>
-
-[google scholar](https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ)
-[github](https://github.com/Hosseinadeli)
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf) / 
+[google scholar](https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ) / 
+[github](https://github.com/Hosseinadeli) <br/>
 ---
 
 <div class="container">
@@ -27,7 +26,6 @@ I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook U
 
     <div class="row-fluid">
         <div class="span5">
-            Hossein adeli<br/>
             email: hossein.adelijelodar@stonybrook.edu<br/>
         </div>
 

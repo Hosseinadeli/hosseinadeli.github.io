@@ -10,7 +10,7 @@ keywords: vision, attention, eye-movements, computational modeling
 Hossein Adeli <br/>
 Senior Postdoctoral Fellow <br/>
 Cognitive Science, PhD <br/>
-Eye Cognition Lab  <br/>
+[Eye Cognition Lab](https://you.stonybrook.edu/zelinsky/who-we-are/)  <br/>
 Computer Vision Lab <br/>
 Stony Brook University, Stony Brook, NY 
 

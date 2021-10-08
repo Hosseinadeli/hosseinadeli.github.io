@@ -1,5 +1,3 @@
-The academic website for Seoyoung (Young) Ahn
-
 This website is heavily based on the tutorial and template from [Karl Broman](http://kbroman.org) and [Marisa Carlos](http://marisacarlos.com/pages/create-simple-academic-website). 
 
 

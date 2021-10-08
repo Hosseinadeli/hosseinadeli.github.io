@@ -1,1 +1,0 @@
-# hosseinadeli.github.io

@@ -18,6 +18,8 @@ I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook U
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf)<br/>
 
+[google scholar](https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ)
+[github](https://github.com/Hosseinadeli)
 ---
 
 <div class="container">

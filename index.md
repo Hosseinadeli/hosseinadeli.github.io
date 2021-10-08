@@ -9,10 +9,14 @@ keywords: vision, attention, eye-movements, computational modeling
 
 Hossein Adeli 
 
-Cognitive Science, Ph.D.
 Senior Postdoctoral Fellow 
+
+Cognitive Science, Ph.D.
+
 Eye Cognition Lab 
+
 Computer Vision Lab
+
 Stony Brook University, Stony Brook, NY 
 
 I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook University.  My research focuses on using computational and behavioral tools and through collaboration neural recording  to study the relationship between recognition, attention and grouping. 

@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : ahnchive 
+title : Hossein Adeli 
 author :
-  name : seoyoung ahn
-  email : seoyoung.ahn@stonybrook.edu
-  github : ahnchive
-  twitter : seoyahn
+  name : Hossein Adeli 
+  email : hossein.adelijelodar@stonybrook.edu
+  github : hosseinadeli
+  twitter : adeli_hossein
 
-production_url : http://ahnchive.github.io
+production_url : https://hosseinadeli.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)

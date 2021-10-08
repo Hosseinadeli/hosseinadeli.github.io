@@ -6,8 +6,8 @@ keywords: vision, attention, eye-movements, computational modeling
 ---
 
 <img src="{{ BASE_PATH }}/assets/portrait.jpg"  width = 200>
-<br/>
-Hossein Adeli 
+
+Hossein Adeli <br/>
 Senior Postdoctoral Fellow <br/>
 Cognitive Science, PhD <br/>
 Eye Cognition Lab  <br/>
@@ -43,6 +43,8 @@ I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook U
   <div class="navbar-inner">
       <ul class="nav">
           <!-- <li><a href="{{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf">cv</a></li> -->
+          <li><a href="https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ">google scholar</a></li>
+          <li><a href="https://www.linkedin.com/in/hossein-adeli/">linkedin</a></li>
           <li><a href="https://github.com/Hosseinadeli">github</a></li>
           <li><a href="https://twitter.com/adeli_hossein">twitter (@adeli_hossein)</a></li>
       </ul>

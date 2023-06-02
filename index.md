@@ -8,12 +8,18 @@ keywords: vision, attention, eye-movements, computational modeling
 <img src="{{ BASE_PATH }}/assets/portrait.jpg"  width = 200>
 
 Hossein Adeli <br/>
-Senior Postdoctoral Fellow <br/>
-Cognitive Science, PhD <br/>
-[Eye Cognition Lab](https://you.stonybrook.edu/zelinsky/who-we-are/)  <br/>
-Computer Vision Lab <br/>
+
+Associate Research Scientist <br/>
+[Visual Inference lab](https://kriegeskortelab.zuckermaninstitute.columbia.edu/)  <br/><br/>
+Zuckerman Institute for Brain Mind Behavior <br/>
+Colubmia University <br/>
+New York, NY <br/>
+
+PhD <br/>
+
 Stony Brook University, Stony Brook, NY 
 
+[Eye Cognition Lab](https://you.stonybrook.edu/zelinsky/who-we-are/)  <br/>
 I am a Senior Postdoctoral Fellow in the psychology department  at Stony Brook University.  My research focuses on using computational and behavioral tools and through collaboration neural recording  to study the relationship between recognition, attention and grouping. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf) / 

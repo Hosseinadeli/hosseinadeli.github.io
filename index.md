@@ -23,9 +23,9 @@ Previously, I was a Senior Postdoctoral Fellow in the [Eye Cognition Lab](https:
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf) / 
 [google scholar](https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ) / 
 [github](https://github.com/Hosseinadeli) <br/>
-email: [hossein.adelijelodar@gmail.com]
-       [ha2366@columbia.edu]
-       [hossein.adelijelodar@stonybrook.edu]<br/>
+[ha2366@columbia.edu]<br/>
+[hossein.adelijelodar@stonybrook.edu]<br/>
+[hossein.adelijelodar@gmail.com]<br/>
 
 &nbsp;
 

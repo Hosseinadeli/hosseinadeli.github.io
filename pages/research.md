@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: page
----
+--- -->
 
 
 <!-- [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf) -->

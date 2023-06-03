@@ -16,7 +16,6 @@ New York, NY <br/>
 
 I am interested in using deep neural networks to study how the visual system combines top-down and attention modulations with bottom-up and lateral connectivity to efficiently group visual input into objects. At the [Kriegeskorte lab](https://kriegeskortelab.zuckermaninstitute.columbia.edu/), I am applying this approach to build computational hypotheses of the brain mechanisms of face perception and to evaluate them by building methods for optimizing controversial and adversarial stimuli to drive computational models’ and brain responses during face recognition.
 
-<br/>
 Previously, I was a Senior Postdoctoral Fellow in the [Eye Cognition Lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University psychology department, where I had also recieved my Ph.D. in Cognitive Science.  
 
 <!-- My research focuses on using computational and behavioral tools and through collaboration neural recording  to study the relationship between recognition, attention and grouping. -->

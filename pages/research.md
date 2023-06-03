@@ -18,6 +18,13 @@ To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
 
+# Object-based attention 
+
+<img src="https://raw.githubusercontent.com/Hosseinadeli/affinity_attention/main/figures/sample_model_outputs/70158.png" width = 600>
+
+
+A fundamental problem that our visual system must solve is how to group parts of the visual input together into coherent whole objects. 
+
 <!-- <img src="{{ BASE_PATH }}/assets/portrait.jpg"  width = 200>
 
 Hossein Adeli <br/><br/>

@@ -31,9 +31,11 @@ A fundamental problem that our visual system must solve is how to group parts of
 ---
 
 
-<img src="https://raw.githubusercontent.com/Hosseinadeli/hosseinadeli.github.io/main/assets/OCRA_pipeline.jpg" width = 300>  &nbsp;   &nbsp;  <img src="https://raw.githubusercontent.com/Hosseinadeli/hosseinadeli.github.io/main/assets/jov_OCRA.gif" width = 200>  &nbsp;
+<img src="https://raw.githubusercontent.com/Hosseinadeli/hosseinadeli.github.io/main/assets/OCRA_pipeline.jpg" width = 300>  &nbsp;   &nbsp;  &nbsp;  &nbsp;  <img src="https://raw.githubusercontent.com/Hosseinadeli/hosseinadeli.github.io/main/assets/jov_OCRA.gif" width = 200>
 <br/>
-<img src="https://raw.githubusercontent.com/Hosseinadeli/OCRA_samediff/main/figures/generated_10_time_steps_t3.gif" width = 500>  
+<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/Hosseinadeli/OCRA_samediff/main/figures/generated_10_time_steps_t3.gif" width = 550>  
 
 The visual system uses sequences of selective glimpses to objects to support goal-directed behavior, but how is this attention control learned? Here we present an encoder–decoder model inspired by the interacting bottom-up and top-down visual pathways making up the recognition-attention system in the brain. At every iteration, a new glimpse is taken from the image and is processed through the “what” encoder, a hierarchy of feedforward, recurrent, and capsule layers, to obtain an object-centric (object-file) representation. This representation feeds to the “where” decoder, where the evolving recurrent representation provides top-down attentional modulation to plan subsequent glimpses and impact routing in the encoder. We demonstrate how the attention mechanism significantly improves the accuracy of classifying highly overlapping digits. In a visual reasoning task requiring comparison of two objects, our model achieves near-perfect accuracy and significantly outperforms larger models in generalizing to unseen stimuli. Our work demonstrates the benefits of object-based attention mechanisms taking sequential glimpses of objects.
 

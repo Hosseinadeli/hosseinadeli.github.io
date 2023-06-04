@@ -34,6 +34,7 @@ hossein.adelijelodar@gmail.com<br/>
       <ul class="nav">
           <!-- <li><a href="{{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf">cv</a></li> -->
           <li><a href="https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ">google scholar</a></li>
+          <li><a href="https://www.researchgate.net/profile/Hossein-Adeli">researchgate</a></li>
           <li><a href="https://www.linkedin.com/in/hossein-adeli/">linkedin</a></li>
           <li><a href="https://github.com/Hosseinadeli">github</a></li>
           <li><a href="https://twitter.com/adeli_hossein">twitter (@adeli_hossein)</a></li>

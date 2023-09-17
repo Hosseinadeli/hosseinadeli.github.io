@@ -27,20 +27,24 @@ ha2366@columbia.edu<br/>
 hossein.adelijelodar@stonybrook.edu<br/>
 hossein.adelijelodar@gmail.com<br/>
 
+&nbsp;
 
 #### News - Updates
 ---
 
-##### Gave a talk on our work on predicting fMRI activity using encoder-decoder transformers at CCN2023 [Link to talk on youtube](https://www.youtube.com/live/9Xh55mcWJeE?si=K_Nqme9OYwBHj8eh&t=2302)
+##### Aug 2023 - Gave a talk on our work on predicting fMRI activity using encoder-decoder transformers at CCN2023 [[talk on youtube](https://www.youtube.com/live/9Xh55mcWJeE?si=K_Nqme9OYwBHj8eh&t=2302)]
 
-<img src="https://raw.githubusercontent.com/Hosseinadeli/affinity_attention/main/figures/sample_model_outputs/70158.png" width = 600>
+##### Aug 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at CCN2023 [[poster](https://drive.google.com/file/d/1E0P7zs2n1u61J6mOC5ix2PTcBSn_yX7o/view)]
 
+##### July 2023 - Our submission to algonaust achieved 2nd place  [[Algonauts leader board](http://algonauts.csail.mit.edu/challenge.html)][[report](https://www.biorxiv.org/content/10.1101/2023.08.02.551743v1)][[code](https://github.com/Hosseinadeli/algonauts2023_transformers)]
 
-A fundamental problem that our visual system must solve is how to group parts of the visual input together into coherent whole objects. 
+##### June 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
 
+##### May 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at VSS2023
 
-[arxiv](https://arxiv.org/abs/2306.00294)/ [pdf](https://arxiv.org/pdf/2306.00294.pdf) / [github](https://github.com/Hosseinadeli/affinity_attention)  
+##### May 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
 
+##### May 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
 
 
 &nbsp;

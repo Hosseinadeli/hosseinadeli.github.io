@@ -28,8 +28,10 @@ hossein.adelijelodar@stonybrook.edu<br/>
 hossein.adelijelodar@gmail.com<br/>
 
 
-### News - Updates
+#### News - Updates
 ---
+
+##### Gave a talk on our work on predicting fMRI activity using encoder-decoder transformers at CCN2023 [Link to talk on youtube](https://www.youtube.com/live/9Xh55mcWJeE?si=K_Nqme9OYwBHj8eh&t=2302)
 
 <img src="https://raw.githubusercontent.com/Hosseinadeli/affinity_attention/main/figures/sample_model_outputs/70158.png" width = 600>
 

@@ -27,6 +27,20 @@ ha2366@columbia.edu<br/>
 hossein.adelijelodar@stonybrook.edu<br/>
 hossein.adelijelodar@gmail.com<br/>
 
+
+### News - Updates
+---
+
+<img src="https://raw.githubusercontent.com/Hosseinadeli/affinity_attention/main/figures/sample_model_outputs/70158.png" width = 600>
+
+
+A fundamental problem that our visual system must solve is how to group parts of the visual input together into coherent whole objects. 
+
+
+[arxiv](https://arxiv.org/abs/2306.00294)/ [pdf](https://arxiv.org/pdf/2306.00294.pdf) / [github](https://github.com/Hosseinadeli/affinity_attention)  
+
+
+
 &nbsp;
 
 <div class="navbar">

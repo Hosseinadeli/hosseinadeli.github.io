@@ -42,7 +42,7 @@ June 2023 - New preprint on predicting dynamics of object grouping in humans usi
 
 May 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at VSS2023
 
-May 2023 - Released our dataset on dynamics of object grouping in humans [[[data](https://github.com/Hosseinadeli/affinity_attention)]]
+May 2023 - Released our dataset on dynamics of object grouping in humans [[data](https://github.com/Hosseinadeli/affinity_attention)]
 
 May 2023 - Our work on A brain-inspired object-based attention network for multiobject recognition and visual reasoning is out in JoV [[paper](https://jov.arvojournals.org/article.aspx?articleid=2785636)][[preprint](https://www.biorxiv.org/content/10.1101/2022.04.02.486850v2.abstract)][[code](https://github.com/Hosseinadeli/OCRA)]
 

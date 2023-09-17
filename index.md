@@ -32,19 +32,19 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
-##### Aug 2023 - Gave a talk on our work on predicting fMRI activity using encoder-decoder transformers at CCN2023 [[talk on youtube](https://www.youtube.com/live/9Xh55mcWJeE?si=K_Nqme9OYwBHj8eh&t=2302)]
+Aug 2023 - Gave a talk on our work on predicting fMRI activity using encoder-decoder transformers at CCN2023 [[talk on youtube](https://www.youtube.com/live/9Xh55mcWJeE?si=K_Nqme9OYwBHj8eh&t=2302)]
 
-##### Aug 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at CCN2023 [[poster](https://drive.google.com/file/d/1E0P7zs2n1u61J6mOC5ix2PTcBSn_yX7o/view)]
+Aug 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at CCN2023 [[poster](https://drive.google.com/file/d/1E0P7zs2n1u61J6mOC5ix2PTcBSn_yX7o/view)]
 
-##### July 2023 - Our submission to algonaust achieved 2nd place  [[Algonauts leader board](http://algonauts.csail.mit.edu/challenge.html)][[report](https://www.biorxiv.org/content/10.1101/2023.08.02.551743v1)][[code](https://github.com/Hosseinadeli/algonauts2023_transformers)]
+July 2023 - Our submission to algonaust achieved 2nd place  [[Algonauts leader board](http://algonauts.csail.mit.edu/challenge.html)][[report](https://www.biorxiv.org/content/10.1101/2023.08.02.551743v1)][[code](https://github.com/Hosseinadeli/algonauts2023_transformers)]
 
-##### June 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
+June 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
 
-##### May 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at VSS2023
+May 2023 - Gave a poster presentation on our work on predicting dynamics of object grouping in humans at VSS2023
 
-##### May 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
+May 2023 - Released our dataset on dynamics of object grouping in humans [[[data](https://github.com/Hosseinadeli/affinity_attention)]]
 
-##### May 2023 - New preprint on predicting dynamics of object grouping in humans using self-supervised transformers [[paper](https://arxiv.org/abs/2306.00294)][[code](https://github.com/Hosseinadeli/affinity_attention)]
+May 2023 - Our work on A brain-inspired object-based attention network for multiobject recognition and visual reasoning is out in JoV [[paper](https://jov.arvojournals.org/article.aspx?articleid=2785636)][[preprint](https://www.biorxiv.org/content/10.1101/2022.04.02.486850v2.abstract)][[code](https://github.com/Hosseinadeli/OCRA)]
 
 
 &nbsp;

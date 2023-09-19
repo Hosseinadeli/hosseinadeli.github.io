@@ -15,7 +15,17 @@ To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
 
-### Object-based attention 
+### Predicting brain activity using Transformers
+---
+
+<img src="https://raw.githubusercontent.com/Hosseinadeli/algonauts2023_transformers/main/figures/model_architecture.jpg" width = 300><img src="https://raw.githubusercontent.com/Hosseinadeli/algonauts2023_transformers/main/figures/02_hosseinadeli.png" width = 300>
+
+
+A major goal of computational neuroscience is to model how different brain regions respond to visual input. 
+
+[biorxiv](https://www.biorxiv.org/content/10.1101/2023.08.02.551743v1.abstract)/ [pdf](https://www.biorxiv.org/content/10.1101/2023.08.02.551743v1.full.pdf) / [github](https://github.com/Hosseinadeli/algonauts2023_transformers)  
+
+### Grouping and Object-based attention 
 ---
 
 <img src="https://raw.githubusercontent.com/Hosseinadeli/affinity_attention/main/figures/sample_model_outputs/70158.png" width = 600>

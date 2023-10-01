@@ -11,7 +11,7 @@ Hossein Adeli <br/><br/>
 Associate Research Scientist <br/>
 [Kriegeskorte lab](https://kriegeskortelab.zuckermaninstitute.columbia.edu/)  <br/>
 Zuckerman Institute for Brain Mind Behavior <br/>
-Colubmia University <br/>
+Columbia University <br/>
 New York, NY <br/>
 
 I am interested in using deep neural networks to study how the visual system combines top-down and attention modulations with bottom-up and lateral connectivity to efficiently group visual input into objects. At the [Kriegeskorte lab](https://kriegeskortelab.zuckermaninstitute.columbia.edu/), I am applying this approach to build computational hypotheses of the brain mechanisms of face perception and to evaluate them by building methods for optimizing controversial and adversarial stimuli to drive computational models’ and brain responses during face recognition.

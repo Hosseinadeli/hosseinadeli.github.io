@@ -31,7 +31,7 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
-Oct 2023 - Gave a talk on our work on predicting brain activiy with transformers at [NeuroAI Montreal(https://www.neuroaimontreal.com/)]
+Oct 2023 - Gave a talk on our work on predicting brain activiy with transformers at [NeuroAI Montreal](https://www.neuroaimontreal.com/)
 
 Aug 2023 - Gave a talk on our work on predicting fMRI activity using encoder-decoder transformers at CCN2023 [[talk on youtube](https://www.youtube.com/live/9Xh55mcWJeE?si=K_Nqme9OYwBHj8eh&t=2302)]
 

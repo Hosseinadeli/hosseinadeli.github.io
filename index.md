@@ -5,7 +5,7 @@ description:Hossein Adeli, Senior Postdoctoral Fellow at Stony Brook University.
 keywords: vision, attention, eye-movements, computational modeling
 ---
 
-<img src="{{ BASE_PATH }}/assets/profile_hossein.png"  width = 200>
+<img src="{{ BASE_PATH }}/assets/profile_hossein.png"  width = 300>
 
 Hossein Adeli <br/><br/>
 Associate Research Scientist <br/>

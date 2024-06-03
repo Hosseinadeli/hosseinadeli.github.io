@@ -31,7 +31,9 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
-Feb 2024 - Our symposium submission on "Using deep networks to re-imagine object-based attention and perception" is accepted for the 2024 Vision Sciences Society meeting ([VSS](https://www.visionsciences.org/symposia/?sym=21))
+April 2024 - Developed a tutorial for the **neuromatch neuroai** course on *Computation as transformation of representational geometries*. Check it out ([here](https://neuroai.neuromatch.io/tutorials/W1D3_ComparingArtificialAndBiologicalNetworks/student/W1D3_Tutorial2.html))
+
+Feb 2024 - Our symposium submission on *"Using deep networks to re-imagine object-based attention and perception" is accepted for the 2024 Vision Sciences Society meeting* ([VSS](https://www.visionsciences.org/symposia/?sym=21))
 
 Nov 2023 - Gave a talk on our work on predicting brain activity with transformers at Latin American Workshop on Computational Neuroscience ([LAWCN](https://lawcn.co/))
 

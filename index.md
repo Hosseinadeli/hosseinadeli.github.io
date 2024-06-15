@@ -31,6 +31,8 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
+June 2024 - Our work on *The attentive reconstruction of objects facilitates robust object recognition* was published in **PLOS Computational Biology**  [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012159)]
+
 June 2024 - Gave a presentation at Amirkabir (Tehran Polytechnic) university in **Farsi** on our work on predicting brain activity with transformers. [[talk on youtube](https://youtu.be/JP1-6KrPuFY)]
 
 May 2024 - Presented our work on object grouping at VSS 2024 and at our symposium **Using deep networks to re-imagine object-based attention and perception**.
@@ -55,7 +57,7 @@ May 2023 - Gave a poster presentation on our work on predicting dynamics of obje
 
 May 2023 - Released our dataset on dynamics of object grouping in humans [[data](https://github.com/Hosseinadeli/affinity_attention)]
 
-May 2023 - Our work on A brain-inspired object-based attention network for multiobject recognition and visual reasoning is out in JoV [[paper](https://jov.arvojournals.org/article.aspx?articleid=2785636)][[preprint](https://www.biorxiv.org/content/10.1101/2022.04.02.486850v2.abstract)][[code](https://github.com/Hosseinadeli/OCRA)]
+May 2023 - Our work on A brain-inspired object-based attention network for multiobject recognition and visual reasoning is out in Journal of Vision [[paper](https://jov.arvojournals.org/article.aspx?articleid=2785636)][[preprint](https://www.biorxiv.org/content/10.1101/2022.04.02.486850v2.abstract)][[code](https://github.com/Hosseinadeli/OCRA)]
 
 
 &nbsp;

@@ -36,13 +36,13 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
-Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeuRIPS) Spotlight (top %3) 2025**  [[preprint](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]
+Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeuRIPS 2025) Spotlight (top %3)**  [[preprint](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]
 
-Sep 2025 - Collavoration with Andrew Luo's group on **Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex** was accepted to **Neural Information Processing Systems (NeuRIPS) 2025** [[preprint](https://arxiv.org/abs/2505.15813)]] 
+Sep 2025 - Collaboration with Andrew Luo's group on **Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex** was accepted to **Neural Information Processing Systems (NeuRIPS 2025)** [[preprint](https://arxiv.org/abs/2505.15813)]] 
 
-Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain** was accepted to **Neural Information Processing Systems (NeuRIPS) 2025**. [[earlier preprint](https://2025.ccneuro.org/abstract_pdf/Hwang_2025_Discovering_visual_categorical_selectivity_across_whole.pdf)]] 
+Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain** was accepted to **Neural Information Processing Systems (NeuRIPS 2025)**. [[earlier preprint](https://2025.ccneuro.org/abstract_pdf/Hwang_2025_Discovering_visual_categorical_selectivity_across_whole.pdf)]] 
 
-Sep 2025 - Gave gures lectures introuding the studnets in Parson School of desgin to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
+Sep 2025 - Gave gures lectures introducing the students in Parson School of design to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
 
 Aug 2025 - Presented our work on at **NeuroAdapter: Visual Reconstruction with Masked Brain Representation** at the Cognitive Computational Neuroscience meeting, Amsterdam [[Short preprint](https://2025.ccneuro.org/abstract_pdf/Adeli_2025_NeuroAdapter_Visual_Reconstruction_Masked_Brain_Representation.pdf)]
 

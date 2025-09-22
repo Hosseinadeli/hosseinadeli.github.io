@@ -14,7 +14,12 @@ Zuckerman Institute for Brain Mind Behavior <br/>
 Columbia University <br/>
 New York, NY <br/>
 
-I am interested in using deep neural networks to study how the visual system combines top-down and attention modulations with bottom-up and lateral connectivity to efficiently group visual input into objects. At the [Kriegeskorte lab](https://kriegeskortelab.zuckermaninstitute.columbia.edu/), I am applying this approach to build computational hypotheses of the brain mechanisms of face perception and to evaluate them by building methods for optimizing controversial and adversarial stimuli to drive computational models’ and brain responses during face recognition.
+I work at the intersection of neuroscience and AI (Neuro-AI). We build encoding models using modern machine
+learning and deep neural networks that predict neural activity to better understand computations in the brain. These
+models can also serve as “digital twins” on which we perform in silico experiments to reveal the selectivity of
+different units. We also are building state of the art decoding models to reconstruct perceived stimuli from brain
+activity. In other work, I study how the visual system combines top-down and attention modulations with bottom-up
+and lateral connectivity to efficiently group visual input into objects and reveal mechanisms of face perception.
 
 Previously, I was a Senior Postdoctoral Fellow in the [Eye Cognition Lab](https://you.stonybrook.edu/zelinsky/who-we-are/) at Stony Brook University psychology department, where I had also recieved my Ph.D. in Cognitive Science.  
 

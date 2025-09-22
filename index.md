@@ -31,6 +31,27 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
+Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeuRIPS) Spotlight (top %3) 2025**  [[preprint](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]
+
+Sep 2025 - Collavoration with Andrew Luo's group on **Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex** was accepted to **Neural Information Processing Systems (NeuRIPS) 2025** [[preprint](https://arxiv.org/abs/2505.15813)]] 
+
+Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain** was accepted to **Neural Information Processing Systems (NeuRIPS) 2025**. [[earlier preprint](https://2025.ccneuro.org/abstract_pdf/Hwang_2025_Discovering_visual_categorical_selectivity_across_whole.pdf)]] 
+
+Sep 2025 - Gave gures lectures introuding the studnets in Parson School of desgin to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
+
+Aug 2025 - Presented our work on at **NeuroAdapter: Visual Reconstruction with Masked Brain Representation** CCN presentation 
+
+May 2025 - Gave a talk on **Capturing the Representational Dynamics of Face Perception in Deep Recurrent Neural Networks** at MODVIS 2025: Computational and Mathematical Models in Vision** workshop at Vision Sciences society meeting 
+
+April 2025 - Gave a talk on **Flexible relational neural encoder architecture explains human high-level visual responses** at
+Department of Systems and Computational Biology, Albert Einstein College of Medicine. 
+
+September 2024 - Gave a talk on **Recurrent models optimized for face recognition exhibit representational dynamics resembling the
+primate brain** at SciFest at the Zuckerman Mind Brain Behavior Institute. 
+
+August 2024 - Gave a talk on **Predicting brain activity using Transformers** at Center for Theoretical Neuroscience, Columbia
+University. 
+
 June 2024 - Our work on *The attentive reconstruction of objects facilitates robust object recognition* was published in **PLOS Computational Biology**  [[link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012159)]
 
 June 2024 - Gave a presentation at Amirkabir (Tehran Polytechnic) university in **Farsi** on our work on predicting brain activity with transformers. [[talk on youtube](https://youtu.be/JP1-6KrPuFY)]
@@ -39,7 +60,7 @@ May 2024 - Presented our work on object grouping at VSS 2024 and at our symposiu
 
 April 2024 - Developed a **tutorial** for the **neuromatch neuroai** course on *Computation as transformation of representational geometries*. Check it out ([here](https://neuroai.neuromatch.io/tutorials/W1D3_ComparingArtificialAndBiologicalNetworks/student/W1D3_Tutorial2.html))
 
-Feb 2024 - Our symposium submission on *Using deep networks to re-imagine object-based attention and perception* is accepted for the 2024 Vision Sciences Society meeting ([VSS](https://www.visionsciences.org/symposia/?sym=21))
+Feb 2024 - Our symposium submission on **Using deep networks to re-imagine object-based attention and perception** is accepted for the 2024 Vision Sciences Society meeting ([VSS](https://www.visionsciences.org/symposia/?sym=21))
 
 Nov 2023 - Gave a talk on our work on predicting brain activity with transformers at Latin American Workshop on Computational Neuroscience ([LAWCN](https://lawcn.co/))
 

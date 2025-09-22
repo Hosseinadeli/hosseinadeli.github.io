@@ -25,7 +25,7 @@ Previously, I was a Senior Postdoctoral Fellow in the [Eye Cognition Lab](https:
 
 <!-- My research focuses on using computational and behavioral tools and through collaboration neural recording  to study the relationship between recognition, attention and grouping. -->
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_website.pdf) / 
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV_Hossein_Adeli_Fall2025.pdf) / 
 [google scholar](https://scholar.google.com/citations?hl=en&user=EdIFZpQAAAAJ) / 
 [github](https://github.com/Hosseinadeli) <br/>
 ha2366@columbia.edu<br/>

@@ -44,7 +44,7 @@ Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Acr
 
 Sep 2025 - Gave gures lectures introuding the studnets in Parson School of desgin to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
 
-Aug 2025 - Presented our work on at **NeuroAdapter: Visual Reconstruction with Masked Brain Representation** CCN presentation 
+Aug 2025 - Presented our work on at **NeuroAdapter: Visual Reconstruction with Masked Brain Representation** at the Cognitive Computational Neuroscience meeting, Amsterdam [[Short preprint](https://2025.ccneuro.org/abstract_pdf/Adeli_2025_NeuroAdapter_Visual_Reconstruction_Masked_Brain_Representation.pdf)]
 
 May 2025 - Gave a talk on **Capturing the Representational Dynamics of Face Perception in Deep Recurrent Neural Networks** at MODVIS 2025: Computational and Mathematical Models in Vision** workshop at Vision Sciences society meeting 
 
@@ -52,7 +52,7 @@ April 2025 - Gave a talk on **Flexible relational neural encoder architecture ex
 Department of Systems and Computational Biology, Albert Einstein College of Medicine. 
 
 September 2024 - Gave a talk on **Recurrent models optimized for face recognition exhibit representational dynamics resembling the
-primate brain** at SciFest at the Zuckerman Mind Brain Behavior Institute. 
+primate brain** at SciFest at the Zuckerman Mind Brain Behavior Institute. [[Short preprint](https://2024.ccneuro.org/pdf/505_Paper_authored_CCN_2024_final_with_authors.pdf)]
 
 August 2024 - Gave a talk on **Predicting brain activity using Transformers** at Center for Theoretical Neuroscience, Columbia
 University. 

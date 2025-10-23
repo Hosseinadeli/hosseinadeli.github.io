@@ -35,7 +35,7 @@ hossein.adelijelodar@gmail.com<br/>
 
 #### News - Updates
 ---
-Oct 2025 - New preprint **NeuroAdapter\: Towards Interpretable Visual Decoding with Attention to Brain Representations** [[preprint](https://arxiv.org/abs/2509.23566)][[project page](https://kriegeskorte-lab.github.io/NeuroAdapter-Web/)]
+Oct 2025 - New preprint **NeuroAdapter; Towards Interpretable Visual Decoding with Attention to Brain Representations** [[preprint](https://arxiv.org/abs/2509.23566)][[project page](https://kriegeskorte-lab.github.io/NeuroAdapter-Web/)]
 
 Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeuRIPS 2025) Spotlight (top %3)**  [[preprint](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]
 

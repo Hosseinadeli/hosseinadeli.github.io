@@ -38,7 +38,7 @@ hossein.adelijelodar@gmail.com<br/>
 
 March 2026 - New preprint **Human-like Object Grouping in Self-supervised Vision Transformers** [[preprint](http://arxiv.org/abs/2603.13994)]
 
-Feb 2026 - Collaboration with Andrew Luo's group on **TBD** was accepted to **CVPR 2026** 
+Feb 2026 - Collaboration with Andrew Luo's group on **Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding** was accepted to **CVPR 2026** [[arxjv](tbd)]
 
 Jan 2026 - **NeuroAdapter: Towards Interpretable Visual Decoding with Attention to Brain Representations** was accepted to **ICLR 2026** [[arxiv](https://arxiv.org/abs/2509.23566)][[project page](https://kriegeskorte-lab.github.io/NeuroAdapter-Web/)][[openreview page](https://openreview.net/forum?id=YWlYITAhMC)]    
 

@@ -35,6 +35,13 @@ hossein.adelijelodar@gmail.com<br/>
 
 #### News - Updates
 ---
+
+March 2026 - New preprint **Human-like Object Grouping in Self-supervised Vision Transformers** [[preprint](http://arxiv.org/abs/2603.13994)]
+
+Feb 2026 - Collaboration with Andrew Luo's group on **TBD** was accepted to **CVPR 2026** 
+
+Jan 2026 - **NeuroAdapter: Towards Interpretable Visual Decoding with Attention to Brain Representations** was accepted to **ICLR 2026** [[arxiv](https://arxiv.org/abs/2509.23566)][[project page](https://kriegeskorte-lab.github.io/NeuroAdapter-Web/)][[openreview page](https://openreview.net/forum?id=YWlYITAhMC)]    
+
 Oct 2025 - New preprint **NeuroAdapter: Towards Interpretable Visual Decoding with Attention to Brain Representations** [[preprint](https://arxiv.org/abs/2509.23566)][[project page](https://kriegeskorte-lab.github.io/NeuroAdapter-Web/)]
 
 Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeuRIPS 2025) Spotlight (top %3)**  [[preprint](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]

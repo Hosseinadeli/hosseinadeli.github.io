@@ -36,9 +36,9 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
-June 2026 - **Human-like Object Grouping in Self-supervised Vision Transformers** was accepted to **European Conference on Computer Vision ECCV(2026)**  [[arxiv](https://arxiv.org/abs/2603.13994)][[code](https://github.com/Hosseinadeli/human_like_grouping_Transformers)]
+June 2026 - **Human-like Object Grouping in Self-supervised Vision Transformers** was accepted to **European Conference on Computer Vision (ECCV 2026)**  [[arxiv](https://arxiv.org/abs/2603.13994)][[code](https://github.com/Hosseinadeli/human_like_grouping_Transformers)]
 
-May 2026 - Gave a talk at the Vision Sciences Society meeting (VSS) symposium on **Beyond prediction: Interpretable brain encoding models for understanding vision** titled **Dynamic transformer routing from retinotopic cortex explains encoding in category-selective cortical areas** [[Video](https://www.cbs.mpg.de/cbs-coconut/video/adeli)] . 
+May 2026 - Gave a talk at the Vision Sciences Society meeting (VSS) symposium on **Beyond prediction: Interpretable brain encoding models for understanding vision** titled **Dynamic transformer routing from retinotopic cortex explains encoding in category-selective cortical areas** [[Video](https://www.youtube.com/watch?v=1nFNx6McCpM)] . 
 
 May 2026 - New preprint with Andrew Luo's group on **Elastic Attention Cores for Scalable Vision Transformers** [[arxiv](https://arxiv.org/abs/2605.12491)][[code](https://github.com/alansong1322/VECA)]
 

@@ -36,6 +36,14 @@ hossein.adelijelodar@gmail.com<br/>
 #### News - Updates
 ---
 
+June 2026 - **Human-like Object Grouping in Self-supervised Vision Transformers** was accepted to **European Conference on Computer Vision ECCV(2026)**  [[arxiv](https://arxiv.org/abs/2603.13994)][[code](https://github.com/Hosseinadeli/human_like_grouping_Transformers)]
+
+May 2026 - Gave a talk at the Vision Sciences Society meeting (VSS) symposium on **Beyond prediction: Interpretable brain encoding models for understanding vision** titled **Dynamic transformer routing from retinotopic cortex explains encoding in category-selective cortical areas** [[Video](https://www.cbs.mpg.de/cbs-coconut/video/adeli)] . 
+
+May 2026 - New preprint with Andrew Luo's group on **Elastic Attention Cores for Scalable Vision Transformers** [[arxiv](https://arxiv.org/abs/2605.12491)][[code](https://github.com/alansong1322/VECA)]
+
+April 2026 - Gave a talk to the Max Planck Institute for Human Cognitive and Brain Sciences - CBS CoCoNUT on “Brain Encoding and Decoding with Transformer Attention” [[Video](https://www.cbs.mpg.de/cbs-coconut/video/adeli)]
+
 March 2026 - New preprint **Human-like Object Grouping in Self-supervised Vision Transformers** [[arxiv](http://arxiv.org/abs/2603.13994)]
 
 Feb 2026 - Collaboration with Andrew Luo's group on **Meta-Learning In-Context Enables Training-Free Cross Subject Brain Decoding** was accepted to **CVPR 2026**  [[arxiv](https://arxiv.org/abs/2604.08537)][[code](https://github.com/ezacngm/brainCodec)]
@@ -50,7 +58,7 @@ Sep 2025 - Collaboration with Andrew Luo's group on **Meta-Learning an In-Contex
 
 Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain** was accepted to **Neural Information Processing Systems (NeuRIPS 2025)**. [[earlier preprint](https://2025.ccneuro.org/abstract_pdf/Hwang_2025_Discovering_visual_categorical_selectivity_across_whole.pdf)]
 
-Sep 2025 - Gave gures lectures introducing the students in Parson School of design to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
+Sep 2025 - Gave guest lectures introducing the students in Parson School of design to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
 
 Aug 2025 - Presented our work on at **NeuroAdapter: Visual Reconstruction with Masked Brain Representation** at the Cognitive Computational Neuroscience meeting, Amsterdam [[Short preprint](https://2025.ccneuro.org/abstract_pdf/Adeli_2025_NeuroAdapter_Visual_Reconstruction_Masked_Brain_Representation.pdf)]
 

@@ -52,11 +52,11 @@ Jan 2026 - **NeuroAdapter: Towards Interpretable Visual Decoding with Attention 
 
 Oct 2025 - New preprint **NeuroAdapter: Towards Interpretable Visual Decoding with Attention to Brain Representations** [[preprint](https://arxiv.org/abs/2509.23566)][[project page](https://kriegeskorte-lab.github.io/NeuroAdapter-Web/)]
 
-Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeuRIPS 2025) Spotlight (top %3)**  [[preprint](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]
+Sep 2025 - Our work on **Transformer brain encoders explain human high-level visual responses** was accepted to **Neural Information Processing Systems (NeurIPS 2025) Spotlight (top %3)**  [[paper](https://arxiv.org/abs/2505.17329)][[code](https://github.com/Hosseinadeli/transformer_brain_encoder)]
 
-Sep 2025 - Collaboration with Andrew Luo's group on **Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex** was accepted to **Neural Information Processing Systems (NeuRIPS 2025)** [[preprint](https://arxiv.org/abs/2505.15813)]
+Sep 2025 - Collaboration with Andrew Luo's group on **Meta-Learning an In-Context Transformer Model of Human Higher Visual Cortex** was accepted to **Neural Information Processing Systems (NeurIPS 2025)** [[paper](https://arxiv.org/abs/2505.15813)]
 
-Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain** was accepted to **Neural Information Processing Systems (NeuRIPS 2025)**. [[earlier preprint](https://2025.ccneuro.org/abstract_pdf/Hwang_2025_Discovering_visual_categorical_selectivity_across_whole.pdf)]
+Sep 2025 - Our work on **In Silico Mapping of Visual Categorical Selectivity Across the Whole Brain** was accepted to **Neural Information Processing Systems (NeurIPS 2025)**. [[paper](https://arxiv.org/abs/2510.21142)]
 
 Sep 2025 - Gave guest lectures introducing the students in Parson School of design to Neuro-AI [[Watch here](https://www.youtube.com/watch?v=3E-Rtp1lNPU&list=PLGZPCQpQdfNx1HlH-R3w8OhzaJvLWwkOY&ab_channel=HosseinAdeli)]
 
